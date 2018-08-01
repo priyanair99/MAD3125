@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Iron Man</string>
+				<string>Avengers</string>
+				<string>Captain America</string>
+				<string>Spider Man</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Avengers</string>
+			<key>Question</key>
+			<string>Avengers.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>John Wick</string>
+				<string> Justice League </string>
+				<string> The Snowman</string>
+				<string>Hammer</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>John Wick</string>
+			<key>Question</key>
+			<string>john.jpeg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Arpan</string>
+				<string>Eminem</string>
+				<string>Steve- Jobs</string>
+				<string>Bill- Gates</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Steve- Jobs</string>
+			<key>Question</key>
+			<string>steve-jobs.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Burger</string>
+				<string>Tomato</string>
+				<string>Apple</string>
+				<string>Hammer</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Apple</string>
+			<key>Question</key>
+			<string>apple.jpg</string>
+		</dict>
+	</array>
+</dict>
+</plist>
